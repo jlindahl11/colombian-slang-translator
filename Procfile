@@ -1,3 +1,1 @@
-flask==2.0.1
-pandas==1.3.3
-gunicorn==20.1.0
+web: gunicorn app:app
